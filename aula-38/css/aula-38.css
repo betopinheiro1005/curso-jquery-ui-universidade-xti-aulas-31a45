@@ -1,0 +1,26 @@
+
+.basico{
+    /* border: 1px solid black; */
+    padding:20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.titulo{
+    text-align: center;
+    color: red;
+    margin-bottom: 20px;
+}
+#drag{
+    display: block;
+    padding: 20px;
+    width: 170px;
+    text-align: center;
+    border: 1px solid black;
+}
+#drop{
+    padding: 100px;
+    width: 70%;
+    float: right;
+    text-align: center;
+    border: 1px solid black;
+}

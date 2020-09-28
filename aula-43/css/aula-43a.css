@@ -1,0 +1,18 @@
+.basico{
+    border: 1px solid black;
+    padding:20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.titulo{
+    text-align: center;
+    color: red;
+    margin-bottom: 40px;
+}
+#valor{
+    border: none;
+}
+#div_valor{
+    display: block;
+    text-align: center;
+}

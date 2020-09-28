@@ -1,0 +1,21 @@
+
+.basico{
+    border: 1px solid black;
+    padding:20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.titulo{
+    text-align: center;
+    color: red;
+    margin-bottom: 40px;
+}
+#resizable { 
+    width: 150px;
+    height: 150px;
+    padding: 0.5em; 
+}
+#resizable h3 {
+     text-align: center;
+     margin: 0; 
+}
