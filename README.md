@@ -1,4 +1,4 @@
-# CURSO JQUERY (CORE - AULAS 31 A 45)  
+# Curso jQuery (CORE) - Aulas 31 a 45  
 ## Universidade XTI (Ricardo Lopes Costa)
 
 ### [Vídeos do curso](https://www.youtube.com/watch?v=YOTFZx9CeX4&list=PLxQNfKs8YwvGOv4evjpsB3JWWZnYChp04)
